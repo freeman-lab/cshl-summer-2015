@@ -1,6 +1,6 @@
 # Talk @ CSHL - Summer 2015
 
-In this mostly hands-on / interactive lecture, we'll discuss an ecosystem of web technologies and computing platforms relavant to modern neuroscience analysis and data sharing. Where possible we'll use the [neurofinder](http://neurofinder.codeneuro.org) challenge as a practical example. This repo repo repo contains links, as well as the intro (an [impress.js](https://github.com/impress/impress.js) presentation).
+In this mostly hands on / interactive lecture, we'll discuss an ecosystem of web technologies and computing platforms relavant to modern neuroscience analysis and data sharing. Where possible we'll use the [neurofinder](http://neurofinder.codeneuro.org) challenge as a practical example. This repo repo repo contains links, as well as the intro (an [impress.js](https://github.com/impress/impress.js) presentation).
 
 Neurofinder links
 - [landing page](http://neurofinder.codeneuro.org/)
