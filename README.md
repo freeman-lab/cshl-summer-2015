@@ -2,6 +2,11 @@
 
 In this mostly hands-on / interactive lecture, we'll discuss an ecosystem of web technologies and computing platforms relavant to modern neuroscience analysis and data sharing. Where possible we'll use the [neurofinder](http://neurofinder.codeneuro.org) challenge as a practical example. This repo contains links, as well as the intro (an [impress.js](https://github.com/impress/impress.js) presentation).
 
+lansdkjasnd;<kbd>
+	]
+	jn`b2[0j2n`i2]
+</kbd>
+
 Neurofinder links
 - [landing page](http://neurofinder.codeneuro.org/)
 - [docker containers](https://github.com/CodeNeuro/neurofinder-docker)
