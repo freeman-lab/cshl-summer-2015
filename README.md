@@ -12,6 +12,7 @@ Topics we'll cover
 - [GitHub](https://github.com/)
 - [Amazon Web Services](http://aws.amazon.com/) ([EC2](http://aws.amazon.com/ec2/) and [S3](http://aws.amazon.com/s3/))
 - [Jupyter](https://jupyter.org/) (formerly IPython notebook) / [try.jupyter.org](http://try.jupyter.org)
+- [Travis.ci](travis-ci.org)
 - [Docker](https://www.docker.com/)
 - [Spark](http://spark.apache.org/)
 - [MongoDB](https://www.mongodb.org/) / [MongoLab](https://mongolab.com/)
