@@ -11,7 +11,7 @@ Topics we'll cover
 - [Python](http://continuum.io/downloads) (and the scientific stack, e.g. numpy, scipy, scikitlearn, matplotlib)
 - [GitHub](https://github.com/)
 - [Amazon Web Services](http://aws.amazon.com/) ([EC2](http://aws.amazon.com/ec2/) and [S3](http://aws.amazon.com/s3/))
-- [Jupyter](https://jupyter.org/) / IPython notebook / [try jupyter](http://try.jupyter.org)
+- [Jupyter](https://jupyter.org/) (formerly IPython notebook) / [try jupyter](http://try.jupyter.org)
 - [Docker](https://www.docker.com/)
 - [Spark](http://spark.apache.org/)
 - [MongoDB](https://www.mongodb.org/) / [MongoLab](https://mongolab.com/)
